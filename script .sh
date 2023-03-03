@@ -10,7 +10,7 @@ apk add openjdk11
 
 cd apache-tomcat-10.0.13/webapps
 
-curl -O https://github.com/Ramiro-DG/asdlklafoidofhd/raw/main/Farmacia_TP.war
+curl -O https://github.com/Ramiro-DG/asdlklafoidofhd/blob/main/ff.war
 
 cd ~
 
